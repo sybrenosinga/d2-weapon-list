@@ -13,8 +13,7 @@ dimwishlist:item=655712834&perks=839105230,3230963543,4071163871,2048641572,1702
 
 
 // Hullabaloo - PVE - wave clear (pve)
-//notes: mw: handeling
-//notes: mod: major tags:pve
+//notes: PVE|WaveClear MOD:Major MW:Handeling
 dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
 
 
