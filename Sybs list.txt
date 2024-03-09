@@ -1,0 +1,27 @@
+title:Sybs list
+
+// The Title - PVP (pvp)
+//notes: mw: range or stability
+mod: counterbalance stock tags:pvp
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,2846385770,1702976605
+
+
+// The Title - PVE (pve)
+//notes: mw: stability or handeling
+mod: minor tags:pve
+dimwishlist:item=655712834&perks=839105230,3230963543,4071163871,2048641572,1702976605
+
+
+// Hullabaloo - PVE - wave clear (pve)
+//notes: mw: handeling
+mod: major tags:pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
+
+
+// Hullabaloo - PVE - boss damage (pve)
+//notes: mw: handeling
+mod: boss tags:pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,1546637391
+dimwishlist:item=657927352&perks=3525010810,2822142346,3300816228,1546637391
+
+
