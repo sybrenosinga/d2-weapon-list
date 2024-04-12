@@ -170,13 +170,17 @@ dimwishlist:item=568611923&perks=1478423395,409831596,951095735,4104185692
 
 
 // Succession (pve)
-//notes: [SybList] mw:handeling tags:pve
+//notes: [SybList]
+//notes: PVE
+//notes: mw:handeling 
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,469285294
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1546637391
 
 
 // Succession (pvp)
-//notes: [SybList] mw:handeling tags:pvp
+//notes: [SybList] 
+//notes: PVP
+//notes: mw:handeling 
 dimwishlist:item=570866107&perks=1840239774,3142289711,588594999,957782887
 
 
@@ -318,13 +322,17 @@ dimwishlist:item=2763843899&perks=202670084,1885400500,699525795,555281244
 
 
 // Succession (pve)
-//notes: [SybList] mw:handeling tags:pve
+//notes: [SybList]
+//notes: PVE
+//notes: mw:handeling 
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391
 
 
 // Succession (pvp)
-//notes: [SybList] mw:handeling tags:pvp
+//notes: [SybList] 
+//notes: PVP
+//notes: mw:handeling 
 dimwishlist:item=3612338554&perks=1840239774,3142289711,588594999,957782887
 
 
